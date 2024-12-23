@@ -1,0 +1,24 @@
+/* span{
+    background-color: lime;
+    border: 2px solid black;
+    height: 100px;
+    width: 200px;
+    padding: 50px; padding only sets to the left or right region of the inline
+    margin: 20px; margin only sets to the left or right region of the inline
+}
+div{
+    background-color: lime;
+    border: 2px solid black;
+    height: 100px;
+    width: 200px;
+    padding: 50px; padding only sets to the left or right region of the inline
+    margin: 20px;
+}  */
+div{
+    background-color: lightcoral;
+    border:2px solid black;
+    height: 200px;
+    width: 200px;
+    margin:10px;
+    display: inline-block;
+}

@@ -1,0 +1,18 @@
+#container{
+    height:50px;
+    width:900px;
+    display:flex;
+    border:2px solid green;
+    background-color: pink;
+    align-items: center;  
+    padding-top:15px;
+    border-radius: 15px;
+}
+.tags{
+    height:50px;
+    width:80px;
+    font-size: 24px;
+    display: 10px 10px 10px 10px;
+    
+    
+}

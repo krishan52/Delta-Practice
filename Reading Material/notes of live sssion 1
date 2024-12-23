@@ -1,0 +1,20 @@
+ >)medium.com to read articles
+ >)need to recover as much as you can 
+ >)for id selector : use #id{ } and we use mostly for a single element
+ >)for class selector: we use .myclass and we use it to apply combine decoration to elements
+ >)In descendent selector the choosen element is a not direct descendent of the of the parent.
+ >)in child combinator the selected element is a direct descendent of the of the parent
+ >)Attribute selector: input[attr="value"]{ property : value;};
+ >)hover or element k bich  m gap nhi mangta h;
+ >)Explore pseudo classes;
+ >)!important is used to fix the property for lifetime;
+ mycolor.space
+ >) Height property:increases the height of content area of an element
+ >) Display property : it sets whether an element is treated as a block or inline element and the layout used for its children.
+ >)diplay:inline or block. put the value of display to none to disappear it from the screen. and to make inline elements to block or vice-versa so that their property and styling remains unchanged then we use inline-block or vice-versa
+>)em unit:it is used to set the properties in relation with the parent element as well as self.
+>)Drawbacks of Em: snowballing effect in nested elements.
+>)rem unit:means root em apply the same as font size of the root element
+
+>) To revise flexbox play games on : https://codingfantasy.com/games/flexboxadventure
+

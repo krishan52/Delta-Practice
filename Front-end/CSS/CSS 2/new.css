@@ -1,0 +1,16 @@
+div{
+    background-color: aquamarine;
+}
+p{
+    background-color:blueviolet;
+    color:aliceblue;
+}
+form{
+    background-color: brown;
+}
+h1{
+    color:rgb(56, 23, 222);
+}
+button:hover{
+    background-color: blueviolet;
+}

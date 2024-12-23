@@ -1,0 +1,19 @@
+h1{
+    border:2px solid black;
+    width:33.33%;
+    height:50%;
+    
+}
+#outer{
+    height: 400px;
+    width: 400px;
+    background-color: burlywood;
+    margin:50px;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color:cadetblue;
+    margin-left: 10%;
+    
+}

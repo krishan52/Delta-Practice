@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment Question 2</title>
+</head>
+<body>
+    <form action="/action.php">
+        <div>
+        <label for="name">Name:</label>
+        <input type="text" name="name" id="name" placeholder="Enter your name">
+    </div>
+    <div>
+        <label for="sex">Sex:</label>
+        <input name="sex" id="sex" type="radio" value="m">
+        <label for="sex">Male</label>
+        <input name="sex" id="sex" type="radio" value="f">
+        <label for="sex">Female</label>
+    </div>
+    <div>
+        <label for="country">Country:</label>
+        <select id="country" name="country">
+            <option>Select your country</option>
+            <option value="india">India</option>
+            <option value="usa">USA</option>
+            <option value="Nepal">Nepal</option>
+            <option value="canada">Canada</option>
+        </select>
+    </div>
+    <div>
+        <label for="feed">Message:</label><br>
+        <textarea name="feedback" id="feed" placeholder="Enter your feedback here" rows="3" cols="30"></textarea>
+    </div>
+<div>
+    <input type="checkbox" id="subs" name="subscribe">
+    <label for="subs">Subscribe?</label>
+</div>
+<button>submit</button>
+
+    </form>
+</body>
+</html>

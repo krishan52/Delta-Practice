@@ -1,0 +1,38 @@
+h1{
+    background-color: yellow;
+    border: 2px solid black;
+
+}
+@media (max-width: 400px){
+    h1{
+        background-color: red;
+        color:white;
+    }
+    div{
+        height: 100px;
+        width:100px;
+        background-color: blueviolet;
+    }
+}
+@media (min-width: 400px) {
+    h1{
+        background-color: chocolate;
+    }
+    div{
+        height: 100px;
+        width: 100px;
+        background-color: chartreuse;
+    }
+}
+
+@media (orientation:landscape){
+    h1{
+        color:white;
+        background-color: blue;
+    }
+    div{
+        height: 300px;
+        width: 300px;
+        background-color: hotpink;
+    }
+}

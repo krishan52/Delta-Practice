@@ -1,0 +1,17 @@
+*{
+    background-color: yellow;
+}
+h1{
+    display:inline;
+    margin-top:250px;
+    font-family: pacifico;
+    color: red;
+    text-align: center;
+    margin-left:250px;
+}
+span{
+    color:red;
+    margin-top:250px;
+    margin-left: 300px;
+}
+
